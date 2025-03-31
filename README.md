@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Aconot (C. Görkem Eğitmenoğlu)
-- 👀 I’m interested in Arduino and Python for now. 
-- 🌱 I’m currently learning Arduino
 - 📫 How to reach me gorkemegitmen@protonmail.com
 
 <!---
